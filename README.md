@@ -1,2 +1,1 @@
-# test-for-git
-simple repo to test github features...
+editing readme file for test branch.
